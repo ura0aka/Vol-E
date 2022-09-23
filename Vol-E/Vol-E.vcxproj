@@ -25,7 +25,9 @@
     <ClCompile Include="..\..\VolitionEngine\src\Game.cpp" />
     <ClCompile Include="..\..\VolitionEngine\src\GameState.cpp" />
     <ClCompile Include="..\..\VolitionEngine\src\main.cpp" />
+    <ClCompile Include="..\..\VolitionEngine\src\MainMenuState.cpp" />
     <ClCompile Include="..\..\VolitionEngine\src\State.cpp" />
+    <ClCompile Include="Button.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\VolitionEngine\src\Component.hpp" />
@@ -34,9 +36,11 @@
     <ClInclude Include="..\..\VolitionEngine\src\EntityManager.hpp" />
     <ClInclude Include="..\..\VolitionEngine\src\Game.hpp" />
     <ClInclude Include="..\..\VolitionEngine\src\GameState.hpp" />
+    <ClInclude Include="..\..\VolitionEngine\src\MainMenuState.hpp" />
     <ClInclude Include="..\..\VolitionEngine\src\PlayerComponent.hpp" />
     <ClInclude Include="..\..\VolitionEngine\src\ResourceManager.hpp" />
     <ClInclude Include="..\..\VolitionEngine\src\State.hpp" />
+    <ClInclude Include="Button.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
