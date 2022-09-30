@@ -77,9 +77,6 @@
     <ClInclude Include="Button.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TextureDump.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="AnimationComponent.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
