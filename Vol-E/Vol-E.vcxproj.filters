@@ -47,9 +47,6 @@
     <ClInclude Include="..\..\VolitionEngine\src\State.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\VolitionEngine\src\ResourceManager.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\VolitionEngine\src\PlayerComponent.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -74,10 +71,13 @@
     <ClInclude Include="..\..\VolitionEngine\src\MainMenuState.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="AnimationComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="Button.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="AnimationComponent.hpp">
+    <ClInclude Include="ResourceManager.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
